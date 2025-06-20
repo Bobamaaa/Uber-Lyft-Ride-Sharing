@@ -1,7 +1,7 @@
 # Uber-Lyft-Ride-Sharing
 # 🚖 Ride Price Prediction Using Weather and Temporal Data
 
-This project uses ride-hailing and weather data to build a predictive model that estimates the price of a ride based on various factors like distance, time of day, weather, and ride type.
+This project utilizes ride-hailing and weather data to develop a predictive model that estimates the price of a ride based on various factors, including distance, time of day, weather conditions, and ride type.
 
 ## 📌 Project Objectives
 
@@ -52,8 +52,6 @@ Key insights:
 
 SHAP plots were used to interpret both global and individual ride predictions.
 
-![SHAP Summary Plot](images/shap_summary.png) *(example placeholder)*
-
 ## 💻 Streamlit App (Coming Soon)
 
 An interactive web app will allow users to:
@@ -67,6 +65,4 @@ An interactive web app will allow users to:
 - scikit-learn, XGBoost, SHAP
 - Streamlit (for app deployment)
 - Jupyter Notebook
-
-## 📁 Project Structure
 
